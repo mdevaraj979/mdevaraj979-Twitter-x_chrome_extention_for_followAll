@@ -4,7 +4,7 @@
 
 **Twitter/X Auto Follow** is a browser extension that automates the process of following peoples or pages on Twitter/X. Built using **React**, **JavaScript**, and the **wxt.dev** framework, this extension makes networking easier and faster.
 
-[Watch the video](https://drive.google.com/file/d/14ogrLxFXeAdZiBLK88ifo8wYgHDxQTat/view?usp=drive_link)
+Here is demo video for extension [Watch the video](https://drive.google.com/file/d/14ogrLxFXeAdZiBLK88ifo8wYgHDxQTat/view?usp=drive_link)
 ## ScreenShots : 
 ![popup](https://github.com/user-attachments/assets/def6ffe4-8872-464a-8dba-20ba75e1997d)
 
